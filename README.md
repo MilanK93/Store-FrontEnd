@@ -1,3 +1,13 @@
+Interface of application
+![prodavnica1](https://user-images.githubusercontent.com/121387018/224546625-cfc0edd0-7ecf-4eb0-b427-15b063e1bb7e.jpg)
+
+Search product
+![prodavnica3](https://user-images.githubusercontent.com/121387018/224546641-dd953bb4-2fab-4172-9db9-ec5590f86c12.jpg)
+
+Add product
+![prodavnica5](https://user-images.githubusercontent.com/121387018/224546644-35d2e476-3b42-499f-b1ae-4126d7ee26fa.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
